@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="pagina">
       <header className="cabecalho">
-        <h1>VIO WEB</h1>
+        <h1>PYETRO ANDRADE MORGAN - 4 DSM</h1>
         <p>Venda de Ingressos Online</p>
       </header>
 
